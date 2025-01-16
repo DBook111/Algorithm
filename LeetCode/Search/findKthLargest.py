@@ -9,3 +9,6 @@ class Solution:
         #             nums[j], nums[j+1] = nums[j+1], nums[j]
         # return nums[len(nums)-k]
         return sorted(nums)[len(nums)-k]
+
+
+print('aaa')
